@@ -6,3 +6,7 @@
 (2)当我们需要查询一个元素是否出现过，或者一个元素是否在集合里的时候，就要第一时间想到哈希法，使用unorder_map和unorder_set速度更快
 
 <img width="1241" height="687" alt="image" src="https://github.com/user-attachments/assets/d7a7b2df-2329-4647-9681-7caa7e417287" />
+
+(3)双指针法:
+
+<img width="885" height="388" alt="image" src="https://github.com/user-attachments/assets/1eb6b7c1-bca6-4760-a1ed-40af0f91dec4" />
